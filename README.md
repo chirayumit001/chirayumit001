@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chirayumit001
 - 👀 I’m interested in Anime
 - 🌱 I’m currently learning coding/dev/frontend/flutter
-- 💞️ I’m looking to collaborate on any open source
+- 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me ... hmmm ... idk ... maybe on gmail -> chirayumit001@gmail.com
 
 <!---
