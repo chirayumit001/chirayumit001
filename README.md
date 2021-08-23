@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source Contributions
 - 🌱 I’m currently watching Steins Gate
 - 💞️ I’m looking to collaborate on any open source project
-- 📫 How to reach me mail- chirayumit001@gmail.com twitter- https://twitter.com/chira_yu
+- 📫 How to reach me mail- chirayum19@gmail.com
 
 <!---
 chirayumit001/chirayumit001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
