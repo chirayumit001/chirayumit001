@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Chirayu Mittal
 - 👀 I’m interested in Open Source Contributions
-- 🌱 I’m currently watching Steins Gate
+- 🌱 I’m currently doing nothing
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me mail- chirayum19@gmail.com
 
