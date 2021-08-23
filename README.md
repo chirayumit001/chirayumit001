@@ -1,5 +1,3 @@
-![13240](https://user-images.githubusercontent.com/84196347/130464686-8c1dcff0-3fe7-41b9-aead-fd3c593983fa.gif)
-
 
 - 👋 Hi, I’m Chirayu Mittal
 - 👀 I’m interested in Open Source Contributions
