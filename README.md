@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Chirayu Mittal
+- 👋 Hi, I’m Chirayu Mittal student of IIT BHU
 - 👀 I’m interested in Open Source Contributions
 - 🌱 I’m currently doing nothing
 - 💞️ I’m looking to collaborate on any open source project
